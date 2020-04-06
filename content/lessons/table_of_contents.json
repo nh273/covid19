@@ -2,7 +2,7 @@
   "id": "table-of-contents",
   "chapters": [
     {
-      "title": "1. Main Chapter",
+      "title": "1. Về căn bệnh và con virus",
       "chapters": [
         {
           "title": "1.1 Subchapter",
@@ -10,33 +10,20 @@
             {
               "entry": "./lesson_one.md"
             }
-          ],
-          "chapters": [
-            {
-              "title": "1.1.1 Sub-subchapter",
-              "entries": [
-                {
-                  "entry": "./lesson_two.md"
-                },
-                {
-                  "entry": "./lesson_three.md"
-                }
-              ]
-            }
           ]
         },
         {
-          "title": "1.2 Subchapter",
+          "title": "1.2 Nguồn gốc",
           "entries": [
             {
-              "entry": "./lesson_four.md"
+              "entry": "./artificial.md"
             }
           ]
         }
       ]
     },
     {
-      "title": "2. Main Chapter",
+      "title": "2. Cách ly xã hội",
       "chapters": [
         {
           "title": "2.1 Subchapter",
@@ -49,7 +36,7 @@
       ]
     },
     {
-      "title": "3. Main Chapter",
+      "title": "3. Vaccine và thuốc chữa",
       "entries": [
         {
           "entry": "./lesson_six.md"
