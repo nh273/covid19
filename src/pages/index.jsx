@@ -29,12 +29,10 @@ class Index extends React.Component {
 
             <div className="contributors">
               <p>
-                Created by Eric Windmill.{' '}
-                <a href="https:twitter.com/ericwindmill">
-                  You should follow him on Twitter.
-                </a>{' '}
-                Also, <a href="https://github.com/Levino">Levin Keller</a> for
-                making it better than I could{"'"}ve alone.
+                Created by <a href="https://github.com/nh273">Phillip Nguyen</a>
+                . Based on a Gatsby Starter by{' '}
+                <a href="https:twitter.com/ericwindmill"> Eric Windmill</a> and{' '}
+                <a href="https://github.com/Levino">Levin Keller</a>.
               </p>
             </div>
           </BodyContainer>

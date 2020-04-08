@@ -1,12 +1,13 @@
 module.exports = {
   blogPostDir: 'posts', // The name of directory that contains your posts.
   lessonsDir: 'lessons', // The name of the directory that contains lessons or docs.
-  siteTitle: 'Gatsby Docs Starter', // Site title.
-  siteTitleAlt: 'Gatsby Starter Template for Creating Docs', // Alternative site title for SEO.
+  siteTitle: 'Placeholder COVID-19', // Site title.
+  siteTitleAlt: 'Thông tin chính xác về virus corona COVID-19', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
   siteUrl: 'https://ericwindmill.com', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: 'A GatsbyJS starter for creating Documentation or Tutorials.', // Website description used for RSS feeds/meta description tag.
+  siteDescription:
+    'Tất cả những gì bạn cần biết về COVID-19, không thừa không thiếu.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
   siteFBAppID: '1825356251115265', // FB Application ID for using app insights
   googleAnalyticsID: 'UA-82450300-1 ', // GA tracking ID.
@@ -21,33 +22,18 @@ module.exports = {
   userLinks: [
     {
       label: 'GitHub',
-      url: 'https://github.com/ericwindmill',
-      iconClassName: 'fa fa-github'
-    },
-    {
-      label: 'Twitter',
-      url: 'https://twitter.com/ericwindmill',
-      iconClassName: 'fa fa-twitter'
-    },
-    {
-      label: 'Messenger',
-      url: 'https://www.messenger.com/t/eric.windmill',
-      iconClassName: 'fa fa-message'
+      url: 'https://github.com/nh273/covid19',
+      iconClassName: 'fa fa-github',
     },
     {
       label: 'Email',
-      url: 'mailto:eric@ericwindmill.com',
-      iconClassName: 'fa fa-envelope'
+      url: 'mailto:nh273@cornell.edu',
+      iconClassName: 'fa fa-envelope',
     },
-    {
-      label: 'Instagram',
-      url: 'https://instagram.com/ericwindmill',
-      iconClassName: 'fa fa-envelope'
-    }
   ],
   copyright: 'Copyright © 2017. Advanced User', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
   backgroundColor: '#e0e0e0', // Used for setting manifest background color.
   // TODO: Move this literally anywhere better.
-  toCChapters: ['', 'Chapter 1', 'Chapter 2'] // Used to generate the Table Of Contents. Index 0 should be blank.
+  toCChapters: ['', 'Chapter 1', 'Chapter 2'], // Used to generate the Table Of Contents. Index 0 should be blank.
 }
