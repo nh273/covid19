@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import styled from 'styled-components'
 
 import SEO from '../components/SEO'
+import CtaButton from '../components/CtaButton'
 import config from '../../data/SiteConfig'
 import Navigation from '../components/Layout/Navigation'
 
@@ -24,8 +25,27 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <h2>Trang thông tin về COVID-19</h2>
-            <p>Hiện có nhiều thông tin sai lệch về COVID-19.</p>
+            <h2>Trong 100 năm qua chưa có đại dịch nào như COVID-19</h2>
+            <p>
+              Có lẽ vì thế mà trên mạng có rất nhiều thông tin sai lệch về căn
+              bệnh này. Những thông tin này hoặc gây lo sợ vô cớ, hoặc khiến
+              người ta chủ quan vì tin tưởng vào những phương pháp phòng chữa
+              bệnh chưa được kiểm chứng. Hơn nữa, lượng thông tin về dịch bệnh
+              từ báo chí, truyền hình, mạng xã hội như một cơn lũ ào ạt đổ xuống
+              đầu bạn hàng ngày.
+            </p>
+            <p>
+              [Placeholder] mong cung cấp tới các bạn chỉ những thông tin thiết
+              yếu nhất về COVID-19, không thừa không thiếu. Thông tin đều được
+              chọn lọc từ các nguồn đáng tin cậy; lời giải thích rõ ràng, dễ
+              hiểu.
+            </p>
+            <p>
+              Vì đây là căn bệnh mới, thay đổi hàng ngày, nên [Placeholder] có
+              mã nguồn mở, để mọi thay đổi được ghi lại rõ ràng minh bạch, và ai
+              cũng có thể đề xuất đóng góp hoặc chỉnh sửa thông tin.
+            </p>
+            <CtaButton to="/covid-19-nguy-hiểm-dến-dau">Mục Lục</CtaButton>
 
             <div className="contributors">
               <p>
