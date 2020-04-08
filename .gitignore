@@ -1,4 +1,7 @@
 ### Node ###
+# Quick note file
+*.rtf
+
 # Logs
 logs
 *.log
