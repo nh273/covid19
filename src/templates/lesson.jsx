@@ -64,18 +64,18 @@ const BodyContainer = styled.div`
   overflow: scroll;
   justify-self: center;
   width: 100%;
-  padding: ${props => props.theme.sitePadding};
+  padding: ${(props) => props.theme.sitePadding};
   @media screen and (max-width: 600px) {
     order: 2;
   }
 
   & > div {
-    max-width: ${props => props.theme.contentWidthLaptop};
+    max-width: ${(props) => props.theme.contentWidthLaptop};
     margin: auto;
   }
 
   & > h1 {
-    color: ${props => props.theme.accentDark};
+    color: ${(props) => props.theme.accentDark};
   }
 `
 
@@ -91,7 +91,7 @@ const HeaderContainer = styled.div`
 const ToCContainer = styled.div`
   grid-column: 1 / 2;
   grid-row: 2 / 3;
-  background: ${props => props.theme.lightGrey};
+  background: ${(props) => props.theme.lightGrey};
   overflow: scroll;
   @media screen and (max-width: 600px) {
     order: 3;
@@ -126,38 +126,6 @@ export const pageQuery = graphql`
               }
               frontmatter {
                 title
-              }
-            }
-          }
-        }
-        chapters {
-          title
-          entries {
-            entry {
-              id
-              childMarkdownRemark {
-                fields {
-                  slug
-                }
-                frontmatter {
-                  title
-                }
-              }
-            }
-          }
-          chapters {
-            title
-            entries {
-              entry {
-                id
-                childMarkdownRemark {
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    title
-                  }
-                }
               }
             }
           }

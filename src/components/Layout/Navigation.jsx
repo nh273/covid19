@@ -7,7 +7,7 @@ const NavContainer = styled.div`
   display: flex;
   justify-content: space-between;
   width: 100%;
-  background: ${props => props.theme.brand};
+  background: ${(props) => props.theme.brand};
 
   .nav-link {
     font-size: 1.6rem;
@@ -40,7 +40,7 @@ class Navigation extends React.Component {
             {' '}
             Lời nói đầu{' '}
           </Link>
-          <Link className="nav-link" to="/lesson-one">
+          <Link className="nav-link" to="/covid-19-nguy-hiểm-dến-dau">
             {' '}
             Mục lục{' '}
           </Link>
