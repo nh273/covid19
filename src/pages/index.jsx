@@ -4,7 +4,6 @@ import styled from 'styled-components'
 
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
-import CtaButton from '../components/CtaButton'
 import Navigation from '../components/Layout/Navigation'
 
 class Index extends React.Component {
@@ -27,7 +26,6 @@ class Index extends React.Component {
           <BodyContainer>
             <h2>Trang thông tin về COVID-19</h2>
             <p>Hiện có nhiều thông tin sai lệch về COVID-19.</p>
-            <CtaButton to={'/lesson-one'}>See Your First Post</CtaButton>
 
             <div className="contributors">
               <p>
@@ -49,8 +47,8 @@ class Index extends React.Component {
 export default Index
 
 const IndexHeadContainer = styled.div`
-  background: ${props => props.theme.brand};
-  padding: ${props => props.theme.sitePadding};
+  background: ${(props) => props.theme.brand};
+  padding: ${(props) => props.theme.sitePadding};
   text-align: center;
 `
 
@@ -62,8 +60,8 @@ const Hero = styled.div`
 `
 
 const BodyContainer = styled.div`
-  padding: ${props => props.theme.sitePadding};
-  max-width: ${props => props.theme.contentWidthLaptop};
+  padding: ${(props) => props.theme.sitePadding};
+  max-width: ${(props) => props.theme.contentWidthLaptop};
   margin: 0 auto;
 
   .contributors {
