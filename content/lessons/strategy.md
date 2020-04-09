@@ -1,5 +1,5 @@
 ---
-title: 'Chúng ta phải làm gì để đánh bại COVID19?'
+title: 'Chúng ta phải làm gì để đánh bại COVID-19?'
 ---
 
 Đầu tiên là cách ly xã hội để không có quá nhiều người nhiễm bệnh cùng lúc, không để bệnh viện bị quá tải.

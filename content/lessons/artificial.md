@@ -2,4 +2,4 @@
 title: 'Con virus có phải nhân tạo không?'
 ---
 
-This is the artificial article instead of lesson four.
+Các bằng chứng tại sao nó k nhân tạo? hoặc là có nhân tạo??? what?
