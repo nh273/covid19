@@ -28,29 +28,39 @@ class Index extends React.Component {
             <h2>Trong 100 năm qua chưa có đại dịch nào như COVID-19</h2>
             <p>
               Có lẽ vì thế mà trên mạng có rất nhiều thông tin sai lệch về căn
-              bệnh này. Những thông tin này hoặc gây lo sợ vô cớ, hoặc khiến
-              người ta chủ quan vì tin tưởng vào những phương pháp phòng chữa
-              bệnh chưa được kiểm chứng. Hơn nữa, lượng thông tin về dịch bệnh
-              từ báo chí, truyền hình, mạng xã hội như một cơn lũ ào ạt đổ xuống
-              đầu bạn hàng ngày.
+              bệnh này. Những thông tin này gây lo sợ vô cớ, hoặc khiến người ta
+              chủ quan vì tin tưởng vào những phương pháp phòng chữa bệnh chưa
+              được kiểm chứng. Hơn nữa, lượng thông tin về dịch bệnh từ báo chí,
+              truyền hình, mạng xã hội như một cơn lũ ào ạt đổ xuống đầu bạn
+              hàng ngày, là một nguồn gây stress không nhỏ.
             </p>
             <p>
-              [Placeholder] mong cung cấp tới các bạn chỉ những thông tin thiết
-              yếu nhất về COVID-19, không thừa không thiếu. Thông tin đều được
-              chọn lọc từ các nguồn đáng tin cậy; lời giải thích rõ ràng, dễ
+              Thông tin COVID mong cung cấp tới các bạn chỉ những thông tin quan
+              trọng nhất về COVID-19, không thừa không thiếu. Dự án này được bắt
+              đầu từ việc mình hàng ngày phân tích và bàn luận các tin tức về
+              đại dịch cùng với gia đình, nên mục tiêu là lời lẽ dân dã và dễ
               hiểu.
             </p>
             <p>
-              Vì đây là căn bệnh mới, thay đổi hàng ngày, nên [Placeholder] có
-              mã nguồn mở, để mọi thay đổi được ghi lại rõ ràng minh bạch, và ai
-              cũng có thể đề xuất đóng góp hoặc chỉnh sửa thông tin.
+              Vì đây là căn bệnh mới, thay đổi hàng ngày, qua quá trình chọn lọc
+              và tiêu hoá thông tin không thể tránh khỏi có những chủ quan cá
+              nhân. Thông tin COVID sẽ cố gắng trích nguồn khi có thể, chọn lọc
+              các nguồn đáng tin cậy nhất: báo cáo khoa học từ các tổ chức uy
+              tín, hoặc các trang tin tức lâu đời và nhiều người đọc. Nếu cảm
+              thấy mục nào có thiếu sót lớn, hoặc nếu muốn đóng góp nội dung,
+              bạn có thể gửi <a href="mailto:nh273@cornell.edu">email</a>, hoặc
+              mở Pull Request trên{' '}
+              <a href="https://github.com/nh273/covid19">Github</a>.
             </p>
-            <CtaButton to="/covid-19-nguy-hiểm-dến-dau">Mục Lục</CtaButton>
+            <CtaButton to="/covid-19-nguy-hiểm-dến-dau">
+              Bắt đầu đọc từ đây
+            </CtaButton>
 
             <div className="contributors">
               <p>
-                Created by <a href="https://github.com/nh273">Phillip Nguyen</a>
-                . Based on a Gatsby Starter by{' '}
+                Thông tin COVID-19 created by{' '}
+                <a href="https://github.com/nh273">Phillip Nguyen</a>. Based on
+                a Gatsby Starter by{' '}
                 <a href="https:twitter.com/ericwindmill"> Eric Windmill</a> and{' '}
                 <a href="https://github.com/Levino">Levin Keller</a>.
               </p>
