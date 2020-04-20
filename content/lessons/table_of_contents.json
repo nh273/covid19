@@ -3,18 +3,12 @@
   "chapters": [
     {
       "title": "Chúng ta biết gì về con virus này?",
-      "entries": [
-        { "entry": "./deadly.md" },
-        { "entry": "./names.md" },
-        { "entry": "./bat.md" },
-        { "entry": "./artificial.md" }
-      ]
+      "entries": [{ "entry": "./deadly.md" }, { "entry": "./names.md" }]
     },
     {
       "title": "Làm gì để chiến đấu với virus?",
       "entries": [
         { "entry": "./strategy.md" },
-        { "entry": "./distancing.md" },
         { "entry": "./cure.md" },
         { "entry": "./reinfect.md" }
       ]
