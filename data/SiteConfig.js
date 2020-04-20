@@ -1,7 +1,7 @@
 module.exports = {
   blogPostDir: 'posts', // The name of directory that contains your posts.
   lessonsDir: 'lessons', // The name of the directory that contains lessons or docs.
-  siteTitle: 'Placeholder COVID-19', // Site title.
+  siteTitle: 'Thông Tin COVID-19', // Site title.
   siteTitleAlt: 'Thông tin chính xác về virus corona COVID-19', // Alternative site title for SEO.
   siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
   siteUrl: 'https://thongtincovid.com/', // Domain of your website without pathPrefix.
@@ -17,7 +17,7 @@ module.exports = {
   userTwitter: 'pnguyen', // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: 'Elmhurst, NY', // User location to display in the author segment.
   userAvatar: null, // User avatar to display in the author segment.
-  userDescription: 'All about me!', // User description to display in the author segment.
+  userDescription: 'https://www.linkedin.com/in/phongphillipnguyen/', // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
