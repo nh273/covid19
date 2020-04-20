@@ -4,7 +4,7 @@ title: 'COVID-19 nguy hiểm đến đâu?'
 
 ## Mình có sắp chết vì COVID không?
 
-Các bạn có thể thấy báo chí nói về tỉ lệ tử vong của COVID-19 với nhiều con số, từ dưới 1% cho tới gần 10%. Nhưng sự thực là chúng ta hoàn toàn không biết.
+Các bạn có thể thấy báo chí nói về tỉ lệ tử vong của COVID-19 với nhiều con số, từ dưới 1% cho tới gần 10%. Nhưng sự thực là chúng ta hoàn toàn không biết chắc.
 
 Hiện nay hầu hết các nước đều báo cáo số _CFR (Case Fatality Rates)_ tức là: _số người tử vong / số người chắc chắn nhiễm bệnh_. Nhưng vấn đề ở đây là mẫu số - số người nhiễm bệnh được test - chắc chắn thấp hơn nhiều so với số người nhiễm bệnh thực sự.
 
@@ -40,7 +40,7 @@ Nhiều con virus khác cũng làm suy giảm miễn dịch, ví dụ như viêm
 
 Tóm lại, đúng là COVID-19 có khả năng giảm hoạt động miễn dịch - giống HIV, nhưng khi chữa khỏi là hệ miễn dịch quay lại như thường, chứ không mãn tính và khó chữa như HIV.
 
-[^doubling] Đây là con số dựa theo tỉ lệ tử vong ở New York và Bắc nước Ý. Dĩ nhiên có nhiều yếu tố ảnh hưởng tới tốc độ lây lan, ví dụ như mật độ dân số, thói quen sinh hoạt (đi phương tiện riêng hay công cộng), thời tiết...
-[^retro] HIV và những con virus khác có khả năng này được gọi là retrovirus - virus tái tổ hợp
-[^enzymes] Reverse transcriptase & integrase
-[^cancer] Vai trò bình thường của tế bào T có diệt tế bào ung thư
+[^doubling]: Đây là con số dựa theo tỉ lệ tử vong ở New York và Bắc nước Ý. Dĩ nhiên có nhiều yếu tố ảnh hưởng tới tốc độ lây lan, ví dụ như mật độ dân số, thói quen sinh hoạt (đi phương tiện riêng hay công cộng), thời tiết...
+[^retro]: HIV và những con virus khác có khả năng này được gọi là retrovirus - virus tái tổ hợp
+[^enzymes]: Reverse transcriptase & integrase
+[^cancer]: Vai trò bình thường của tế bào T có diệt tế bào ung thư
