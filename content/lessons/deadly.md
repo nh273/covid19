@@ -6,13 +6,15 @@ title: 'COVID-19 nguy hiểm đến đâu?'
 
 Các bạn có thể thấy báo chí nói về tỉ lệ tử vong của COVID-19 với nhiều con số, từ dưới 1% cho tới gần 10%. Nhưng sự thực là chúng ta hoàn toàn không biết chắc.
 
-Hiện nay hầu hết các nước đều báo cáo số _CFR (Case Fatality Rates)_ tức là: _số người tử vong / số người chắc chắn nhiễm bệnh_. Nhưng vấn đề ở đây là mẫu số - số người nhiễm bệnh được test - chắc chắn thấp hơn nhiều so với số người nhiễm bệnh thực sự.
+Hiện nay hầu hết các nước đều báo cáo số _CFR (Case Fatality Rates)_ tức là: _số người tử vong / số người chắc chắn nhiễm bệnh_. Con số này theo như WHO thì rơi vào tầm 6-7%, rất đáng ngại![^who]
+
+Nhưng vấn đề ở đây là mẫu số - số người nhiễm bệnh được test - chắc chắn thấp hơn nhiều so với số người nhiễm bệnh thực sự.
 
 Đầu tiên là số lượng các bộ test ở đa số quốc gia rất thiếu, đa phần chỉ đủ kiểm tra các ca bệnh nặng, phải nhập viện. Hơn nữa, xem ra nhiều người mắc COVID-19 chỉ bị triệu chứng nhẹ, không khác gì nhiều bị cảm cúm thông thường, và thậm chí không có triệu chứng, nên sẽ không bao giờ được test.
 
 Độ nguy hiểm "đúng" của COVID-19 được gọi là số _IFR (Infection Fatality Rates)_ tức là: _số người tử vọng / số người nhiễm bệnh thực sự_. IFR gần như chắc chắn là nhỏ hơn CFR, nhưng nhỏ hơn bao nhiêu là một bài toán khó.
 
-Có một điều chắc chắn là COVID-19 có độ nguy hiểm khác nhau với các nhóm tuổi khác nhau. May mắn thay là có vẻ trẻ em gần như không bao giờ bị triệu chứng nặng. Tỉ lệ tử vong cũng tăng rất nhiều đối với người già, người có bệnh nền (béo phì, tiểu đường, cao huyết áp, hen).
+Có một điều chắc chắn là COVID-19 có độ nguy hiểm khác nhau với các nhóm tuổi khác nhau[^age]. May mắn thay là có vẻ trẻ em gần như không bao giờ bị triệu chứng nặng. Tỉ lệ tử vong cũng tăng rất nhiều đối với người già, người có bệnh nền (béo phì, tiểu đường, cao huyết áp, hen).
 
 _Điều này không có nghĩa là nếu bạn còn trẻ và có sức khoẻ tốt, bạn không cần phải lo lắng gì_. Đây chỉ là câu chuyện xác suất, vẫn có khả năng bạn sẽ mắc bệnh nặng kể cả khi còn trẻ khoẻ. Vì vậy hãy hạn chế tiếp xúc và giữ gìn sức khoẻ tối đa trong thời điểm này.
 
@@ -40,6 +42,8 @@ Nhiều con virus khác cũng làm suy giảm miễn dịch, ví dụ như viêm
 
 Tóm lại, đúng là COVID-19 có khả năng giảm hoạt động miễn dịch - giống HIV, nhưng khi chữa khỏi là hệ miễn dịch quay lại như thường, chứ không mãn tính và khó chữa như HIV.
 
+[^who]: Tính theo Situation report #97 ngày 26/4/2020 của WHO, 193 ngàn người tử vong trên 2.8 triệu ca mắc
+[^age]: Có rất nhiều nguồn cho thông tin này, ví dụ như <https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/.> Bạn có thể Google "coronavirus fatality age"
 [^doubling]: Đây là con số dựa theo tỉ lệ tử vong ở New York và Bắc nước Ý. Dĩ nhiên có nhiều yếu tố ảnh hưởng tới tốc độ lây lan, ví dụ như mật độ dân số, thói quen sinh hoạt (đi phương tiện riêng hay công cộng), thời tiết...
 [^retro]: HIV và những con virus khác có khả năng này được gọi là retrovirus - virus tái tổ hợp
 [^enzymes]: Reverse transcriptase & integrase
