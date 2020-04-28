@@ -1,7 +1,7 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import styled from 'styled-components'
-import UserLinks from '../UserLinks'
+import React from "react";
+import Link from "gatsby-link";
+import styled from "styled-components";
+import UserLinks from "../UserLinks";
 
 const NavContainer = styled.div`
   display: flex;
@@ -29,7 +29,7 @@ const NavContainer = styled.div`
       display: none;
     }
   }
-`
+`;
 
 class Navigation extends React.Component {
   render() {
@@ -37,24 +37,24 @@ class Navigation extends React.Component {
       <NavContainer>
         <section>
           <Link className="nav-link" to="/">
-            {' '}
-            Lời nói đầu{' '}
+            {" "}
+            Lời nói đầu{" "}
           </Link>
           <Link className="nav-link" to="/covid-19-nguy-hiểm-dến-dau">
-            {' '}
-            Mục lục{' '}
+            {" "}
+            Mục lục{" "}
           </Link>
           <Link className="nav-link" to="/about">
-            {' '}
-            Về nhóm thực hiện{' '}
+            {" "}
+            Đóng góp và Góp ý{" "}
           </Link>
         </section>
         <span>
           <UserLinks />
         </span>
       </NavContainer>
-    )
+    );
   }
 }
 
-export default Navigation
+export default Navigation;
