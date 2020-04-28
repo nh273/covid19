@@ -11,11 +11,11 @@ Nhưng virus có thể đột biến gen và kháng nguyên có thể thay đổ
 
 Nhiều bằng chứng cho thấy con virus này biến đổi khá chậm, nên chúng ta có thể miễn nhiễm với nó tương đối lâu dài nếu đã khỏi bệnh hoặc được tiêm vaccine.
 
-# Thế nhưng tui đọc báo có nói những ca khỏi rồi bị nhiễm lại?
+## Thế nhưng tui đọc báo có nói những ca khỏi rồi bị nhiễm lại?
 
 Nhiều khả năng đó là trong quá trình điều trị, lượng virus trong cơ thể xuống thấp tới mức các test không phát hiện ra được, nhưng khi xuất viện vì lý do nào đó mà hệ miễn dịch lại không kiểm soát được số lượng virus, để chúng nhân giống quay lại mức có thể test được.
 
-# Thế nhưng tui đọc báo thấy có nhiều chủng virus corona khác nhau?
+## Thế nhưng tui đọc báo thấy có nhiều chủng virus corona khác nhau?
 
 Thứ nhất, đây không phải là con virus corona duy nhất, có vô cùng nhiều loài virus corona trong tự nhiên. Con virus gây ra dịch SARS cũng là một loại virus corona. Tên nó là SARS-CoV-1. Con virus hiện nay là con thứ 2 gây ra bệnh đường hô hấp cấp tính ở người được chúng ta phát hiện sau con SARS, nên tên đầy đủ của nó là SARS-CoV-2.
 
