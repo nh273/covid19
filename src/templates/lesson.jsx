@@ -6,6 +6,7 @@ import SEO from '../components/SEO'
 import SiteHeader from '../components/Layout/Header'
 import config from '../../data/SiteConfig'
 import TableOfContents from '../components/Layout/TableOfContents'
+import MailChimp from '../components/helpers/MailChimp'
 
 export default class LessonTemplate extends React.Component {
   render() {
@@ -37,6 +38,7 @@ export default class LessonTemplate extends React.Component {
             <div>
               <h1>{post.title}</h1>
               <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+              <MailChimp />
             </div>
           </BodyContainer>
         </BodyGrid>
