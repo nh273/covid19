@@ -11,13 +11,25 @@ class About extends Component {
         <div className="about-text" style={aboutStyle}>
           Nếu muốn đóng góp nội dung, vui lòng gửi{" "}
           <a href="mailto:nh273@cornell.edu">email</a>, hoặc mở Pull Request
-          trên <a href="https://github.com/nh273/covid19">Github</a>.
+          trên{" "}
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://github.com/nh273/covid19"
+          >
+            Github
+          </a>
+          .
           <br />
           <br />
           Chi phí duy trì trang web này không đáng kể. Nếu thấy thông tin ở đây
           bổ ích, bạn có thể share cho bạn bè và người thân. <br />
           Mọi đóng góp qua{" "}
-          <a href="https://opencollective.com/thong-tin-covid">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://opencollective.com/thong-tin-covid"
+          >
             Open Collective
           </a>{" "}
           sẽ được dành cho việc đưa trang web này tới nhiều người hơn.

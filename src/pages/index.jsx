@@ -1,15 +1,15 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import styled from 'styled-components'
+import React from "react";
+import Helmet from "react-helmet";
+import styled from "styled-components";
 
-import SEO from '../components/SEO'
-import CtaButton from '../components/CtaButton'
-import config from '../../data/SiteConfig'
-import Navigation from '../components/Layout/Navigation'
+import SEO from "../components/SEO";
+import CtaButton from "../components/CtaButton";
+import config from "../../data/SiteConfig";
+import Navigation from "../components/Layout/Navigation";
 
 class Index extends React.Component {
   render() {
-    const allSEOMarkdown = this.props.data.allMarkdown.edges
+    const allSEOMarkdown = this.props.data.allMarkdown.edges;
 
     return (
       <div className="index-container">
@@ -49,8 +49,15 @@ class Index extends React.Component {
               tín, hoặc các trang tin tức lâu đời và nhiều người đọc. Nếu cảm
               thấy mục nào có thiếu sót lớn, hoặc nếu muốn đóng góp nội dung,
               bạn có thể gửi <a href="mailto:nh273@cornell.edu">email</a>, hoặc
-              mở Pull Request trên{' '}
-              <a href="https://github.com/nh273/covid19">Github</a>.
+              mở Pull Request trên{" "}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/nh273/covid19"
+              >
+                Github
+              </a>
+              .
             </p>
             <CtaButton to="/covid-19-nguy-hiểm-dến-dau">
               Bắt đầu đọc từ đây
@@ -58,34 +65,55 @@ class Index extends React.Component {
 
             <div className="contributors">
               <p>
-                Thông tin COVID-19 created by{' '}
-                <a href="https://github.com/nh273">Phillip Nguyen</a>. Based on
-                a Gatsby Starter by{' '}
-                <a href="https:twitter.com/ericwindmill"> Eric Windmill</a> and{' '}
-                <a href="https://github.com/Levino">Levin Keller</a>.
+                Thông tin COVID-19 created by{" "}
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/nh273"
+                >
+                  Phillip Nguyen
+                </a>
+                . Based on a Gatsby Starter by{" "}
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https:twitter.com/ericwindmill"
+                >
+                  {" "}
+                  Eric Windmill
+                </a>{" "}
+                and{" "}
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Levino"
+                >
+                  Levin Keller
+                </a>
+                .
               </p>
             </div>
           </BodyContainer>
         </main>
       </div>
-    )
+    );
   }
 }
 
-export default Index
+export default Index;
 
 const IndexHeadContainer = styled.div`
   background: ${(props) => props.theme.brand};
   padding: ${(props) => props.theme.sitePadding};
   text-align: center;
-`
+`;
 
 const Hero = styled.div`
   padding: 50px 0;
   & > h1 {
     font-weight: 600;
   }
-`
+`;
 
 const BodyContainer = styled.div`
   padding: ${(props) => props.theme.sitePadding};
@@ -96,7 +124,7 @@ const BodyContainer = styled.div`
     max-width: 400px;
     margin: 100px auto 0;
   }
-`
+`;
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
@@ -143,4 +171,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
