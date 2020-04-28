@@ -54,6 +54,7 @@ module.exports = {
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-autolink-headers',
+          'gatsby-remark-numbered-footnotes',
         ],
       },
     },
@@ -61,6 +62,13 @@ module.exports = {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
         trackingId: config.googleAnalyticsID,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint:
+          'https://thongtincovid.us8.list-manage.com/subscribe/post?u=dc3e5d7498ae6b007aa3f8b95&amp;id=a0450be6ef',
       },
     },
     {

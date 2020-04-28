@@ -6,7 +6,7 @@ title: 'COVID-19 nguy hiểm đến đâu?'
 
 Các bạn có thể thấy báo chí nói về tỉ lệ tử vong của COVID-19 với nhiều con số, từ dưới 1% cho tới gần 10%. Nhưng sự thực là chúng ta hoàn toàn không biết chắc.
 
-Hiện nay hầu hết các nước đều báo cáo số _CFR (Case Fatality Rates)_ tức là: _số người tử vong / số người chắc chắn nhiễm bệnh_. Con số này theo như WHO thì rơi vào tầm 6-7%, rất đáng ngại![^who]
+Hiện nay hầu hết các nước đều báo cáo số _CFR (Case Fatality Rates)_ tức là: _số người tử vong / số người chắc chắn nhiễm bệnh_. Con số này theo như WHO thì rơi vào tầm 6-7%, rất đáng ngại! [^who]
 
 Nhưng vấn đề ở đây là mẫu số - số người nhiễm bệnh được test - chắc chắn thấp hơn nhiều so với số người nhiễm bệnh thực sự.
 

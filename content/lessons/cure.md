@@ -2,40 +2,36 @@
 title: 'Bao giờ thì có thuốc chữa hoặc vaccine?'
 ---
 
-Why does it take so long to find a cure/vaccine?
+Tại sao tìm ra một loại thuốc hoặc vaccine chống được COVID-19 lại lâu đến thế?
 
-## Cure
+## Thuốc chữa
 
-Clinical trial:
-Phase 1 is mainly for safety
-Phase 2 is to find dosage range in human
-Phase 3 is double blind randomized control to determine effectiveness
+Bất kì loại thuốc nào cũng phải trải qua _thử nghiệm lâm sàng (clinical trial)_. [^pre-clinical]
+Quá trình này gồm 3 bước:
 
-Kinda explain why Phase 3 is necessary:
-Most people with COVID-19 will get better on their own anyway.
-So if you give everyone the drug, you don't know if they are getting better from the drug or just on their own.
-So you randomly give half of patients sugar pills (placebo), half the real drug to see if the real drug actually works better than sugar pills.
-The patients and the doctors directly giving the drugs to the patients cannot know who get the placebo and who get the real drug, because there is proof that that can influence the outcome.
+- Giai đoạn 1 thử nghiệm trên số ít người, chủ yếu để xem thuốc có an toàn không
+- Giai đoạn 2 trên nhiều người hơn, để xem liều lượng bao nhiêu thì sẽ tạo ra phản ứng nhưng vẫn ít tác dụng phụ
+- Giai đoạn 3 để xem thuốc thực sự có chữa được bệnh hay không. [^phase-4]
 
-Normally it takes years but right now it's already been rushed to take months.
-There are drugs already on the market to treat other diseases being repurposed -> passed Phase 1 & 2 already, now only need to see if it can really treat COVID-19.
+Thường thì phải mất nhiều năm mới có thể hoàn thành quá trình thử nghiệm lâm sàng này. Nhưng với COVID-19, người ta đang tìm ra nhiều loại thuốc đang được sử dụng để chữa các bệnh khác và thử dùng nó để chữa COVID.
+Làm theo cách này, chúng ta có thể bỏ qua giai đoạn 1 & 2 và tiến thẳng tới giai đoạn 3.
 
-Drugs have side effects, and also we need to make sure we are not wasting resource on a cure that doesn't work.
+### Tại sao cần giai đoạn 3?
 
-"Compassionate use" -> you can already use pre-Phase 3 drugs on people in critical conditions.
+Kể cả khi không có thuốc, đa số những người mắc COVID-19 sẽ vẫn tự khỏi bệnh. Và thuốc nào thì cũng có tác dụng phụ ít nhiều. Hơn nữa, nếu tưởng rằng có thuốc chữa, mà thực ra thuốc đấy lại không có tác dụng, hoặc còn làm bệnh nặng hơn, thì còn tệ hơn là không có thuốc.
+
+Thế nên chúng ta cho 1 nửa số người bệnh trong nhóm thử nghiệm thuốc thật, nửa còn lại sẽ được dùng _giả dược (placebo)_, tức là một viên đường hay gì đó tương tự, vô thưởng vô phạt. Sau đó chúng ta quan sát xem nhóm dùng thuốc thật có khỏi bệnh nhanh hơn hoặc nhiều hơn nhóm dùng giả dược hay không. Và những người bệnh lẫn những y bác sĩ trực tiếp đưa thuốc không được biết đâu là thuốc thật, đâu là giả dược, để tránh chủ quan của họ gây ảnh hưởng tới kết quả thí nghiệm.
+
+Với một căn bệnh như COVID-19, cần thử nghiệm thuốc trên hàng ngàn người trước khi thu được kết quả tương đối chắc chắn. Quá trình này tuy đã nhanh hơn bình thường rất nhiều, vẫn sẽ mất vài tháng (đến khoảng tháng 5 sẽ có kết quả của một số thử nghiệm lâm sàng đầu tiên).
+
+Trong trường hợp bệnh nặng nguy hiểm tới tính mạng, các y bác sĩ có thể quyết định dùng thuốc đã qua Giai đoạn 1 & 2, chưa qua Giai đoạn 3 (tức là đã biết thuốc tương đối an toàn mà chưa biết là có hiệu quả hay không) [^compassionate]. Trong đại dịch COVID-19 này, có nhiều trường hợp đã được dùng thuốc như thế.
 
 ## Vaccine
 
-Also has to go through clinical trial.
-Vaccine is trickier because you are injecting billions of healthy people with it.
-So need to really make sure there are no short & long term side effects, and that immunity is long-lasting.
+Thuốc chữa cần thử nghiệm như thế nào, thì vaccine cũng cần trải qua y như thế. Thậm chí, thử nghiệm cho vaccine càng khó và gắt gao hơn vì sẽ phải tiêm vaccine vào hàng trăm triệu, thậm chí hàng tỉ người khoẻ mạnh. Vaccine thành công lại còn phải tạo được khả năng miễn dịch tương đối lâu dài. Bạn phải lừa cho cơ thể nghĩ rằng nó đang bị COVID-19 tấn công, đủ mạnh để cơ thể tạo ra kháng thể chống chọi và "ghi nhớ" lấy dấu hiệu của con virus, nhưng không được mạnh tay quá, nếu không sẽ gây ra những phản ứng nghiêm trọng. Nói vậy cũng đủ hiểu việc làm vaccine khó thế nào.
 
-## Testing
+Hiện có khoảng 10 loại vaccine đang được thử nghiệm song song. Nếu không có trở ngại lớn, chúng ta sẽ có vaccine trong năm 2021.
 
-Có 2 loại test chính cho COVID-19.
-
-Loại thứ nhất, là loại hầu như chúng ta đang dùng bây giờ, cho biết một người _hiện tại đang có virus_ trong cơ thể hay không. Loại này dựa trên một công nghệ gọi là PCR, có khả năng tìm thấy các mẩu gien của virus trong nước bọt hay nước mũi v.v. của chúng ta. Test này có nhược điểm là cần các chuyên viên thực hiện thao tác trên máy PCR, và bản thân máy PCR cũng là cỗ máy đắt tiền, thường chỉ có trong bệnh viện hay phòng thí nghiệm.
-
-Loại thứ 2 là test kháng thể (antibody test) hoặc còn gọi là test huyết thanh (serological test), cho biết một người _đã từng mắc COVID hay chưa_. Khi bị mắc bệnh, cơ thể sẽ sinh ra kháng thể để chống lại virus. Chúng ta có thể phát hiện ra các kháng thể này theo nhiều cách khác nhau. Công nghệ để làm loại test này có thể thu nhỏ vào một bộ kit nhỏ, chỉ cần lấy máu đầu ngón tay là được và có kết quả nhanh (nôm na thì nó hơi giống như công nghệ que thử thai vậy).
-
-Nhưng nhược điểm của loại test thứ 2 là có thể mất nhiều ngày sau khi nhiễm bệnh thì cơ thể mới sản sinh ra kháng thể. Trong thời gian đó thì người bệnh đã có thể lây cho người khác rồi. Do đó loại test kháng thể này chủ yếu để điều tra ở các nước mà bệnh đã lan rộng xem thực tế có bao nhiêu người đã bị nhiễm bệnh và hồi phục. Vấn đề nữa là hiện này người ta vẫn còn đang phải kiểm tra xem các bộ test này đã đủ chính xác để đưa vào sử dụng rộng rãi hay chưa.
+[^pre-clinical]: Trước khi thử nghiệm lâm sàng trên người, dĩ nhiên thường người ta sẽ thử nghiệm thuốc trên tế bào trong ống nghiệm, trên động vật, v.v.
+[^phase-4]: Thực ra còn giai đoạn 4: quan sát sau khi thuốc đã được sử dụng rộng rãi ngoài xã hội, tạm thời không nói tới ở đây.
+[^compassionate]: Trường hợp dùng thuốc như thế này gọi là "compassionate use" hoặc "expanded access".
