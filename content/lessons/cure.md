@@ -1,5 +1,5 @@
 ---
-title: 'Bao giờ thì có thuốc chữa hoặc vaccine?'
+title: "Bao giờ thì có thuốc chữa hoặc vaccine?"
 ---
 
 Tại sao tìm ra một loại thuốc hoặc vaccine chống được COVID-19 lại lâu đến thế?
@@ -15,6 +15,8 @@ Quá trình này gồm 3 bước:
 
 Thường thì phải mất nhiều năm mới có thể hoàn thành quá trình thử nghiệm lâm sàng này. Nhưng với COVID-19, người ta đang tìm ra nhiều loại thuốc đang được sử dụng để chữa các bệnh khác và thử dùng nó để chữa COVID.
 Làm theo cách này, chúng ta có thể bỏ qua giai đoạn 1 & 2 và tiến thẳng tới giai đoạn 3.
+
+![Thử nghiệm lâm sàng gồm 3 giai đoạn](../images/clinical_trial.png)
 
 ### Tại sao cần giai đoạn 3?
 
