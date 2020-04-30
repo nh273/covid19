@@ -1,5 +1,5 @@
 ---
-title: 'COVID-19 nguy hiểm đến đâu?'
+title: "COVID-19 nguy hiểm đến đâu?"
 ---
 
 ## Mình có sắp chết vì COVID không?
@@ -15,6 +15,8 @@ Nhưng vấn đề ở đây là mẫu số - số người nhiễm bệnh đư�
 Độ nguy hiểm "đúng" của COVID-19 được gọi là số _IFR (Infection Fatality Rates)_ tức là: _số người tử vọng / số người nhiễm bệnh thực sự_. IFR gần như chắc chắn là nhỏ hơn CFR, nhưng nhỏ hơn bao nhiêu là một bài toán khó.
 
 Nhiều nghiên cứu tuyên bố ở các nước Âu Mỹ, có vẻ như số người nhiễm thực sự lớn gấp nhiều lần (từ 5 lần cho tới 70 lần) số người nhiễm ta biết hiện nay.
+
+![iceberg](../images/iceberg.png)
 
 Có một điều chắc chắn là COVID-19 có độ nguy hiểm khác nhau với các nhóm tuổi khác nhau[^age]. May mắn thay là có vẻ trẻ em gần như không bao giờ bị triệu chứng nặng. Tỉ lệ tử vong cũng tăng rất nhiều đối với người già, người có bệnh nền (béo phì, tiểu đường, cao huyết áp, hen) [^comorbidities].
 
