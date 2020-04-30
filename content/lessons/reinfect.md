@@ -1,5 +1,5 @@
 ---
-title: 'Bị nhiễm COVID-19 rồi, có bị nhiễm lại không?'
+title: "Bị nhiễm COVID-19 rồi, có bị nhiễm lại không?"
 ---
 
 Không ai biết chắc vì con virus này quá mới, nhưng nhiều khả năng là không.
@@ -11,6 +11,8 @@ Nhưng virus có thể đột biến gen và kháng nguyên có thể thay đổ
 
 Nhiều bằng chứng cho thấy con virus này biến đổi khá chậm, nên chúng ta có thể miễn nhiễm với nó tương đối lâu dài nếu đã khỏi bệnh hoặc được tiêm vaccine.
 
+![COVID-19 biến đổi tương đối chậm](./../images/immune.png)
+
 ## Thế nhưng tui đọc báo có nói những ca khỏi rồi bị nhiễm lại?
 
 Nhiều khả năng đó là trong quá trình điều trị, lượng virus trong cơ thể xuống thấp tới mức các test không phát hiện ra được, nhưng khi xuất viện vì lý do nào đó mà hệ miễn dịch lại không kiểm soát được số lượng virus, để chúng nhân giống quay lại mức có thể test được.
@@ -19,4 +21,4 @@ Nhiều khả năng đó là trong quá trình điều trị, lượng virus tro
 
 Thứ nhất, đây không phải là con virus corona duy nhất, có vô cùng nhiều loài virus corona trong tự nhiên. Con virus gây ra dịch SARS cũng là một loại virus corona. Tên nó là SARS-CoV-1. Con virus hiện nay là con thứ 2 gây ra bệnh đường hô hấp cấp tính ở người được chúng ta phát hiện sau con SARS, nên tên đầy đủ của nó là SARS-CoV-2.
 
-Thứ hai, loài virus nào cũng liên tục biến đổi & tiến hoá. Nhóm virus lây lan ở châu Âu sẽ biến đổi khác với nhóm lây lan Trung Quốc hay ở Mỹ, và chúng ta có thể phát hiện ra những biến đổi này khi nghiên cứu bộ gen. Nhưng hầu hết các biến đổi gen đều không dẫn đến biến đổi lớn về mặt tính chất của con virus.
+Thứ hai, loài virus nào cũng liên tục biến đổi & tiến hoá. Nhóm virus lây lan ở châu Âu sẽ biến đổi khác với nhóm lây lan Trung Quốc hay ở Mỹ, và chúng ta có thể phát hiện ra những biến đổi này khi nghiên cứu bộ gen. Nhưng hầu hết các biến đổi gen đều không dẫn đến biến đổi lớn về mặt tính chất của con virus. Chỉ khi nào virus biến đổi đúng vào những gien khiến cho nó "thay áo" thì mới tạo thành chủng mới có thể làm những người đã miễn dịch rồi nhiễm lại.
