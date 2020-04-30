@@ -1,21 +1,26 @@
 ---
-title: 'Chúng ta phải làm gì để đánh bại COVID-19?'
+title: "Chúng ta phải làm gì để đánh bại COVID-19?"
 ---
 
 ## COVID-19 sẽ bị đánh bại như thế nào?
 
 Có một vài trường hợp chính có thể xảy ra:
 
-1. Tìm ra thuốc chữa
-   Có nhiều loại thuốc đang được thử nghiệm trên người để xem có chống được COVID-19 hay không. Nếu chúng ta may mắn, thì sẽ có một loại thuốc nào đó đã được sản xuất rộng rãi có thể chống được COVID-19 một cách hiệu quả. Nhiều thử nghiệm sẽ cho kết quả vào tháng 5. Lúc đó, chúng ta sẽ biết rõ hơn trường hợp này có khả thi hay không.
+#### 1. Tìm ra thuốc chữa:
 
-2. Tìm ra vaccine
-   Song song với thuốc, nhiều loại vaccine cũng đang được đồng loạt nghiên cứu, thử nghiệm và đưa vào sản xuất. Nhưng không phải loại bệnh nào cũng có thể tạo được vaccine, và việc thử nghiệm thành công rồi sản xuất hàng loạt vaccine để đưa vào tiêm phòng rộng rãi cũng sẽ phải mất nhiều tháng, thậm chí nhiều năm.
+Có nhiều loại thuốc đang được thử nghiệm trên người để xem có chống được COVID-19 hay không. Nếu chúng ta may mắn, thì sẽ có một loại thuốc nào đó đã được sản xuất rộng rãi có thể chống được COVID-19 một cách hiệu quả. Nhiều thử nghiệm sẽ cho kết quả vào tháng 5. Lúc đó, chúng ta sẽ biết rõ hơn trường hợp này có khả thi hay không.
 
-3. Herd immunity (miễn dịch cộng đồng)
-   Đối với nhiều loại bệnh truyền nhiễm, một khi đã mắc bệnh và hồi phục, cơ thể sẽ có sức đề kháng tự nhiên với căn bệnh đó. Nhiều khả năng người đã mắc COVID-19 và khỏi bệnh cũng sẽ có sức đề kháng ít nhiều. Nếu trong xã hội có nhiều người có sức đề kháng với COVID-19, dịch sẽ tự tiêu tan. Bạn có thể tưởng tượng COVID-19 giống như đám cháy rừng: khi chưa ai mắc bệnh thì cây nào cũng có thể bùng cháy, khiến đám cháy lan nhanh, nhưng khi có nhiều cây đã cháy rồi và không bắt lửa được nữa, thì đám cháy tự nó lụi tàn đi.
+#### 2. Tìm ra vaccine:
 
-   Nhưng dĩ nhiên để đạt miễn dịch cộng đồng khi không có vaccine, bạn chấp nhận để rất rất nhiều người nhiễm bệnh. Để xem xem giải pháp này có khả thi hay không, chúng ta phải biết thêm nhiều điều về COVID-19: sau khi khỏi bệnh thì sẽ miễn nhiễm bao lâu? Tỉ lệ tử vong thật sự là bao nhiêu? Hiện thực sự đang có bao nhiêu người đã bị bệnh và hồi phục?
+Song song với thuốc, nhiều loại vaccine cũng đang được đồng loạt nghiên cứu, thử nghiệm và đưa vào sản xuất. Nhưng không phải loại bệnh nào cũng có thể tạo được vaccine, và việc thử nghiệm thành công rồi sản xuất hàng loạt vaccine để đưa vào tiêm phòng rộng rãi cũng sẽ phải mất nhiều tháng, thậm chí nhiều năm.
+
+#### 3. Herd immunity (miễn dịch cộng đồng):
+
+Đối với nhiều loại bệnh truyền nhiễm, một khi đã mắc bệnh và hồi phục, cơ thể sẽ có sức đề kháng tự nhiên với căn bệnh đó. Nhiều khả năng người đã mắc COVID-19 và khỏi bệnh cũng sẽ có sức đề kháng ít nhiều. Nếu trong xã hội có nhiều người có sức đề kháng với COVID-19, dịch sẽ tự tiêu tan. Bạn có thể tưởng tượng COVID-19 giống như đám cháy rừng: khi chưa ai mắc bệnh thì cây nào cũng có thể bùng cháy, khiến đám cháy lan nhanh, nhưng khi có nhiều cây đã cháy rồi và không bắt lửa được nữa, thì đám cháy tự nó lụi tàn đi.
+
+Nhưng dĩ nhiên để đạt miễn dịch cộng đồng khi không có vaccine, bạn chấp nhận để rất rất nhiều người nhiễm bệnh. Để xem xem giải pháp này có khả thi hay không, chúng ta phải biết thêm nhiều điều về COVID-19: sau khi khỏi bệnh thì sẽ miễn nhiễm bao lâu? Tỉ lệ tử vong thật sự là bao nhiêu? Hiện thực sự đang có bao nhiêu người đã bị bệnh và hồi phục?
+
+![Miễn dịch cộng đồng có thể là kết quả của vaccine, hoặc của việc có rất nhiều người nhiễm bệnh](../images/herd_immunity.png)
 
 ## Vậy còn cách ly xã hội để làm gi?
 
@@ -23,11 +28,13 @@ Cách ly toàn xã hội có 2 tác dụng: ở những nước có ít ca nhi�
 
 Nhưng cách ly xã hội chỉ là biện pháp chữa cháy tạm thời. Chúng ta không thể dừng cả xã hội lại cả năm và cầu mong có vaccine được. Nếu kinh tế dừng lại, thì tác hại còn lớn hơn virus. Mọi biện pháp lâu dài phải cân bằng giữa bảo vệ kinh tế & ngăn chặn dịch bệnh lây lan. Trong lúc chờ vaccine và thuốc chữa, có một số giải pháp mà chúng ta có thể áp dụng hoặc kết hợp:
 
-1. Làm như Hàn Quốc đã làm (Việt Nam cũng đã làm trước khi phải cách ly toàn xã hội): sau khi gỡ bỏ cách ly rộng rãi, ráo riết kiểm tra những người có triệu chứng, cách ly các ổ dịch nhỏ.
-2. Có thể cách ly những nhóm rủi ro cao: người cao tuổi, người có nhiều bệnh nền,để phần còn lại của xã hội hoạt động bình thường.
-3. Test kháng thể để biết được những ai đã miễn nhiễm với virus. Những người này có thể được cấp một loại "passport" và được hoạt động bình thường.
+1. Làm như Hàn Quốc đã làm (Việt Nam cũng đã làm trước khi phải cách ly toàn xã hội): ráo riết kiểm tra những người có triệu chứng, cách ly các ổ dịch nhỏ.
+2. Có thể cách ly những nhóm rủi ro cao: người cao tuổi, người có nhiều bệnh nền, để phần còn lại của xã hội hoạt động bình thường.
+3. Test kháng thể để biết được những ai đã miễn nhiễm với virus. Những người này có thể được cấp một loại "passport" và được sinh hoạt bình thường.
 4. Để xã hội quay lại bình thường một thời gian, nếu phát hiện dịch bùng phát quá nhanh thì lại phải quay lại cách ly để tránh hệ thống y tế bị quá tải. Làm như thế đến khi đạt được miễn dịch cộng đồng.
 5. Rửa tay, đeo khẩu trang để làm chậm tốc độ lây lan.
+
+![Cách ly xã hội là biện pháp mạnh, chỉ dùng khi không còn cách nào khác](../images/social_distancing.png)
 
 ## Testing
 

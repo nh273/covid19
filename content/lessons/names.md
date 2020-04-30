@@ -1,10 +1,12 @@
 ---
-title: 'Con này nhiều tên quá, gọi thế nào cho đúng?'
+title: "Con này nhiều tên quá, gọi thế nào cho đúng?"
 ---
 
 **Coronavirus**, corona là tên gọi chung của một nhóm virus. "Corona" là "vương miện", người ta nghĩ mấy con này trông như đang đội một chiếc vương miện tua tủa.
 
 Đây không phải là con virus corona duy nhất, có vô cùng nhiều loài virus corona trong tự nhiên. Con virus gây ra dịch SARS cũng là một loại virus corona.
+
+![Có nhiều loại coronavirus khác nhau, trong đó có SARS và 4 loại virus cảm thường](../images/families_of_viruses.png)
 
 Con gây SARS là con corona gây bệnh hô hấp cấp đầu tiên được phát hiện ở người. Thế nên nó là SARS-CoV 1 (**S**evere **A**cute **R**espiratory **S**yndrome - **Co**rona**V**irus 1). Con virus hiện nay là con thứ 2 gây ra bệnh đường hô hấp cấp tính ở người được chúng ta phát hiện sau con SARS, nên tên đầy đủ của nó là **SARS-CoV 2**.
 

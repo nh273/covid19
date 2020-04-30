@@ -1,5 +1,5 @@
 ---
-title: 'Bao giờ thì có thuốc chữa hoặc vaccine?'
+title: "Bao giờ thì có thuốc chữa hoặc vaccine?"
 ---
 
 Tại sao tìm ra một loại thuốc hoặc vaccine chống được COVID-19 lại lâu đến thế?
@@ -16,6 +16,8 @@ Quá trình này gồm 3 bước:
 Thường thì phải mất nhiều năm mới có thể hoàn thành quá trình thử nghiệm lâm sàng này. Nhưng với COVID-19, người ta đang tìm ra nhiều loại thuốc đang được sử dụng để chữa các bệnh khác và thử dùng nó để chữa COVID.
 Làm theo cách này, chúng ta có thể bỏ qua giai đoạn 1 & 2 và tiến thẳng tới giai đoạn 3.
 
+![Thử nghiệm lâm sàng gồm 3 giai đoạn](../images/clinical_trial.png)
+
 ### Tại sao cần giai đoạn 3?
 
 Kể cả khi không có thuốc, đa số những người mắc COVID-19 sẽ vẫn tự khỏi bệnh. Và thuốc nào thì cũng có tác dụng phụ ít nhiều. Hơn nữa, nếu tưởng rằng có thuốc chữa, mà thực ra thuốc đấy lại không có tác dụng, hoặc còn làm bệnh nặng hơn, thì còn tệ hơn là không có thuốc.
@@ -29,6 +31,8 @@ Trong trường hợp bệnh nặng nguy hiểm tới tính mạng, các y bác 
 ## Vaccine
 
 Thuốc chữa cần thử nghiệm như thế nào, thì vaccine cũng cần trải qua y như thế. Thậm chí, thử nghiệm cho vaccine càng khó và gắt gao hơn vì sẽ phải tiêm vaccine vào hàng trăm triệu, thậm chí hàng tỉ người khoẻ mạnh. Vaccine thành công lại còn phải tạo được khả năng miễn dịch tương đối lâu dài. Bạn phải lừa cho cơ thể nghĩ rằng nó đang bị COVID-19 tấn công, đủ mạnh để cơ thể tạo ra kháng thể chống chọi và "ghi nhớ" lấy dấu hiệu của con virus, nhưng không được mạnh tay quá, nếu không sẽ gây ra những phản ứng nghiêm trọng. Nói vậy cũng đủ hiểu việc làm vaccine khó thế nào.
+
+![Một trong những cách làm vaccine cho virus](../images/vaccine.png)
 
 Hiện có khoảng 10 loại vaccine đang được thử nghiệm song song. Nếu không có trở ngại lớn, chúng ta sẽ có vaccine trong năm 2021.
 
