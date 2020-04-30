@@ -32,6 +32,8 @@ Trong trường hợp bệnh nặng nguy hiểm tới tính mạng, các y bác 
 
 Thuốc chữa cần thử nghiệm như thế nào, thì vaccine cũng cần trải qua y như thế. Thậm chí, thử nghiệm cho vaccine càng khó và gắt gao hơn vì sẽ phải tiêm vaccine vào hàng trăm triệu, thậm chí hàng tỉ người khoẻ mạnh. Vaccine thành công lại còn phải tạo được khả năng miễn dịch tương đối lâu dài. Bạn phải lừa cho cơ thể nghĩ rằng nó đang bị COVID-19 tấn công, đủ mạnh để cơ thể tạo ra kháng thể chống chọi và "ghi nhớ" lấy dấu hiệu của con virus, nhưng không được mạnh tay quá, nếu không sẽ gây ra những phản ứng nghiêm trọng. Nói vậy cũng đủ hiểu việc làm vaccine khó thế nào.
 
+![Một trong những cách làm vaccine cho virus](../images/vaccine.png)
+
 Hiện có khoảng 10 loại vaccine đang được thử nghiệm song song. Nếu không có trở ngại lớn, chúng ta sẽ có vaccine trong năm 2021.
 
 [^pre-clinical]: Trước khi thử nghiệm lâm sàng trên người, dĩ nhiên thường người ta sẽ thử nghiệm thuốc trên tế bào trong ống nghiệm, trên động vật, v.v.
