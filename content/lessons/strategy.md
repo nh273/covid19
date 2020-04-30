@@ -29,8 +29,8 @@ Cách ly toàn xã hội có 2 tác dụng: ở những nước có ít ca nhi�
 Nhưng cách ly xã hội chỉ là biện pháp chữa cháy tạm thời. Chúng ta không thể dừng cả xã hội lại cả năm và cầu mong có vaccine được. Nếu kinh tế dừng lại, thì tác hại còn lớn hơn virus. Mọi biện pháp lâu dài phải cân bằng giữa bảo vệ kinh tế & ngăn chặn dịch bệnh lây lan. Trong lúc chờ vaccine và thuốc chữa, có một số giải pháp mà chúng ta có thể áp dụng hoặc kết hợp:
 
 1. Làm như Hàn Quốc đã làm (Việt Nam cũng đã làm trước khi phải cách ly toàn xã hội): ráo riết kiểm tra những người có triệu chứng, cách ly các ổ dịch nhỏ.
-2. Có thể cách ly những nhóm rủi ro cao: người cao tuổi, người có nhiều bệnh nền,để phần còn lại của xã hội hoạt động bình thường.
-3. Test kháng thể để biết được những ai đã miễn nhiễm với virus. Những người này có thể được cấp một loại "passport" và được hoạt động bình thường.
+2. Có thể cách ly những nhóm rủi ro cao: người cao tuổi, người có nhiều bệnh nền, để phần còn lại của xã hội hoạt động bình thường.
+3. Test kháng thể để biết được những ai đã miễn nhiễm với virus. Những người này có thể được cấp một loại "passport" và được sinh hoạt bình thường.
 4. Để xã hội quay lại bình thường một thời gian, nếu phát hiện dịch bùng phát quá nhanh thì lại phải quay lại cách ly để tránh hệ thống y tế bị quá tải. Làm như thế đến khi đạt được miễn dịch cộng đồng.
 5. Rửa tay, đeo khẩu trang để làm chậm tốc độ lây lan.
 
