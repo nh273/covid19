@@ -16,7 +16,7 @@ Nhưng vấn đề ở đây là mẫu số - số người nhiễm bệnh đư�
 
 Nhiều nghiên cứu tuyên bố ở các nước Âu Mỹ, có vẻ như số người nhiễm thực sự lớn gấp nhiều lần (từ 5 lần cho tới 70 lần) số người nhiễm ta biết hiện nay.
 
-![iceberg](../images/iceberg.png)
+![Số người nhiễm ta biết chỉ là phần nổi của tảng băng](../images/iceberg.png)
 
 Có một điều chắc chắn là COVID-19 có độ nguy hiểm khác nhau với các nhóm tuổi khác nhau[^age]. May mắn thay là có vẻ trẻ em gần như không bao giờ bị triệu chứng nặng. Tỉ lệ tử vong cũng tăng rất nhiều đối với người già, người có bệnh nền (béo phì, tiểu đường, cao huyết áp, hen) [^comorbidities].
 
@@ -30,6 +30,8 @@ Hơn nữa, khi có quá nhiều người mắc COVID-19 cùng lúc, sẽ không
 
 Nếu không phòng tránh gì, số người nhiễm COVID-19 sẽ tăng gấp đôi trong khoảng 3 ngày[^doubling]. Giả sử vào ngày 1/4, trước khi cách ly toàn xã hội, Việt Nam có 10 người nhiễm bệnh mà chúng ta không biết và không cách ly được. Nếu không có biện pháp cách ly, thì sau chỉ 1 tháng (30 ngày) ta sẽ có hơn 10 000 người nhiễm, sau 60 ngày là hơn 10 triệu người nhiễm.
 
+![Sự nguy hiểm thực sự của COVID-19 nằm ở tốc độ lây lan](../images/exponential.png)
+
 Nếu chỉ 1% số người này cần sự chăm sóc của bác sĩ, đã là hơn 100 000 người, chắc chắn sẽ vượt quá khả năng của hệ thống y tế của bất kì quốc gia nào.
 
 Chính vì thế chúng ta phải có các biện pháp để làm chậm tốc độ lây lan của COVID-19, để không có quá nhiều người bị bệnh cùng lúc. Trong lúc đó, chúng ta có thời gian chuẩn bị như xây thêm bệnh viện tạm thời, sản xuất thêm máy thở, thử các loại thuốc mới...
@@ -41,6 +43,8 @@ Nhiều nghiên cứu cho thấy corona có thể nhiễm vào bạch cầu T gi
 Nhưng HIV đặc biệt khó chữa là vì HIV có thể nấp trong _bộ gien_ của bạch cầu T[^retro], nên kể cả khi cơ thể diệt hết virus HIV sống, những con HIV ẩn trong mã gien vẫn có thể chui ra.
 
 COVID-19 không có 2 enzyme cần thiết để nấp trong mã gien[^enzymes] và khả năng nó đột biến ra dc cả 2 enzyme cần thiết này là siêu siêu siêu thấp.
+
+![COVID-19 không có khả năng nguy hiểm nhất của HIV: khả năng ẩn nấp trong gien](../images/hiv.png)
 
 Nhiều con virus khác cũng làm suy giảm miễn dịch, ví dụ như viêm gan C, HPV. Vì thế mà khi mắc virus chúng ta dễ bị bội nhiễm, hoặc viêm gan siêu vi lâu dài dẫn đến ung thư gan[^cạncer], viêm HPV lâu dài dẫn đến ung thư cổ tử cung... Nhưng chỉ có con HIV là nan giải nhất, vì có khả năng nấp trong gien & con COVID-19 không có khả năng này.
 
